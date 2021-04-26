@@ -19,7 +19,7 @@
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-            <div class="sidebar-heading text-white">ADMIN PANEL </div>
+            <div class="sidebar-heading text-white">APP Name</div>
             <ul>
                 <li><a href="#"><i class="fa fa-home"></i> Dashboard</a></li>
                 <li><a href="#"><i class="fa fa-user"></i> Add Student</a></li>
