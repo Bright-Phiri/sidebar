@@ -25,6 +25,7 @@
                 <li><a href="#"><i class="fa fa-user"></i> Add Student</a></li>
                 <li><a href="#"><i class="fa fa-list"></i> View Students</a></li>
                 <li><a href="#"><i class="fa fa-file-pdf-o"></i> Reports</a></li>
+                <li><a href="#"><i class="fa fa-envelope"></i> Mail</a></li>
                 <li><a href="#"><i class="fa fa-cog"></i> Settings</a></li>
                 <li><a href="#"><i class="fa fa-sign-out"></i> Signout</a></li>
             </ul>
